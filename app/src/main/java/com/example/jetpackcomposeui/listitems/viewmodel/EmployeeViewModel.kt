@@ -7,7 +7,7 @@ import androidx.paging.PagingConfig
 import androidx.paging.PagingData
 import androidx.paging.cachedIn
 import com.example.jetpackcomposeui.listitems.model.User
-import com.example.jetpackcomposeui.UserSource
+import com.example.jetpackcomposeui.listitems.pagingSource.UserSource
 import kotlinx.coroutines.flow.Flow
 
 class EmployeeViewModel : ViewModel() {
