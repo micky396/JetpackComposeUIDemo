@@ -1,4 +1,4 @@
-package com.example.jetpackcomposeui.listitems.pagingSource
+package com.example.jetpackcomposeui
 
 import androidx.paging.PagingSource
 import androidx.paging.PagingState
